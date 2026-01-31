@@ -41,7 +41,7 @@
 ## 📫 How to Reach Me
 - 📧 Email: **soumyojitbanerjee14@gmail.com**
 - 🐙 GitHub: [https://github.com/Soumyojit-code](https://github.com/Soumyojit-code)
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+
 
 ## 😄 Pronouns
 He / Him
