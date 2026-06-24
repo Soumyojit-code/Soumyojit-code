@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Soumyojit
 
-🎓 **3rd Year B.Tech Student** at **Adamas University**  
+🎓 **4th Year B.Tech Student** at **Adamas University**  
 💻 **Full Stack Java Developer | Machine Learning Enthusiast**  
 🚀 Passionate about building scalable applications and intelligent systems
 
